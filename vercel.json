@@ -1,5 +1,5 @@
 {
-    "version":1,
+    "version":2,
     "name":"whatsapp-mern-backend-dep",
     "builds":[
         {
